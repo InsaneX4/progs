@@ -1,0 +1,25 @@
+
+        body{
+            background-color: rgb(46, 46, 123);
+        }
+        h1{
+            display: block; 
+            font-family: 'Times New Roman', Times, serif;
+            color: red;
+            text-decoration: underline;
+        }
+        img{
+            margin: auto; width: 60%;
+        }
+        .mini{
+            margin: auto;
+            width: 60%;
+        }
+        p{
+            font-weight:bold ; 
+            font-family: 'Courier New', Courier, monospace; 
+            color: rgb(28, 179, 119); 
+            margin-left: 20%; 
+            margin-right: 20%;
+        }
+    

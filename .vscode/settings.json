@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stack_arr.C": "cpp",
+        "TOHusingstackADT.C": "cpp",
+        "QueueLL.C": "cpp",
+        "BTree.C": "cpp",
+        "merge.C": "cpp",
+        "inputandoutput.C": "cpp",
+        "iostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "java.debug.settings.onBuildFailureProceed": true
+}

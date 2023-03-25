@@ -1,0 +1,252 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "assignment9_6",
+            "request": "launch",
+            "mainClass": "assignment9_6",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "assignment9_5",
+            "request": "launch",
+            "mainClass": "assignment9_5",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "WashingMachine",
+            "request": "launch",
+            "mainClass": "WashingMachine",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "Area",
+            "request": "launch",
+            "mainClass": "Area",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "Kiitians",
+            "request": "launch",
+            "mainClass": "Kiitians",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "assignment9_1",
+            "request": "launch",
+            "mainClass": "assignment9_1",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "question7_6",
+            "request": "launch",
+            "mainClass": "question7_6",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "Launch question7_5",
+            "request": "launch",
+            "mainClass": "question7_5",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "Launch assignment7_3",
+            "request": "launch",
+            "mainClass": "assignment7_3",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "Launch assignment7_2",
+            "request": "launch",
+            "mainClass": "assignment7_2",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "Launch assignment7_1",
+            "request": "launch",
+            "mainClass": "assignment7_1",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "Launch assignment6_7",
+            "request": "launch",
+            "mainClass": "assignment6_7",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "Launch assignment6_6",
+            "request": "launch",
+            "mainClass": "assignment6_6",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "Launch Number",
+            "request": "launch",
+            "mainClass": "Number",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "Launch question1",
+            "request": "launch",
+            "mainClass": "question1",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "Launch assignment6_4",
+            "request": "launch",
+            "mainClass": "assignment6_4",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "Launch assignment6_3",
+            "request": "launch",
+            "mainClass": "assignment6_3",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rectangle",
+            "request": "launch",
+            "mainClass": "Rectangle",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "Launch assignment6_2",
+            "request": "launch",
+            "mainClass": "assignment6_2",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "Launch BoxDemon",
+            "request": "launch",
+            "mainClass": "BoxDemon",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "Launch point",
+            "request": "launch",
+            "mainClass": "point",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "Launch assigntment5_5",
+            "request": "launch",
+            "mainClass": "assigntment5_5",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "Launch assigntment5_2",
+            "request": "launch",
+            "mainClass": "assigntment5_2",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "Launch assigntment5_1",
+            "request": "launch",
+            "mainClass": "assigntment5_1",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "Launch assignment5_3",
+            "request": "launch",
+            "mainClass": "assignment5_3",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "Launch GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "Launch assigntment5_4",
+            "request": "launch",
+            "mainClass": "assigntment5_4",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "Launch assigntment5_3",
+            "request": "launch",
+            "mainClass": "assigntment5_3",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "name": "(Windows) Launch",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "enter program name, for example ${workspaceFolder}/a.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "console": "externalTerminal"
+        },
+        {
+            "name": "C/C++: gcc.exe build and debug active file",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:\\msys64\\mingw64\\bin\\gdb.exe",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Set Disassembly Flavor to Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "C/C++: gcc.exe build active file"
+        }
+    ]
+}
