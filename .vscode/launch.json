@@ -3,6 +3,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "assignement10_4",
+            "request": "launch",
+            "mainClass": "assignement10_4",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "assignment10_3",
+            "request": "launch",
+            "mainClass": "assignment10_3",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "assignment10_2",
+            "request": "launch",
+            "mainClass": "factory.assignment10_2",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "Sales",
+            "request": "launch",
+            "mainClass": "Marketing.Sales",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
             "name": "assignment9_6",
             "request": "launch",
             "mainClass": "assignment9_6",
