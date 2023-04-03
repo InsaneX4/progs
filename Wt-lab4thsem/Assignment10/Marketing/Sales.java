@@ -8,7 +8,7 @@ earning of the employee. Write a Java program to find out the total earning of a
 sales persons for the given basic pay amount and print along with their employee ids. Use array
 of objects where necessary. Assign employee ids as randomly-generated four-digit numbers.*/
 
-import General.Employee;
+import General.*;
 
 public class Sales extends Employee {
 

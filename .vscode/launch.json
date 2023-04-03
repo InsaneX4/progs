@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Assignment11_1",
+            "request": "launch",
+            "mainClass": "Assignment11.Assignment11_1",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "assignement11_1",
+            "request": "launch",
+            "mainClass": "assignement11_1",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
             "name": "assignement10_4",
             "request": "launch",
             "mainClass": "assignement10_4",
