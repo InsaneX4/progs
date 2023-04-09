@@ -20,13 +20,14 @@ class NegativeNumberException extends Exception {
 
 class question1 {
     public static void main(String[] args) {
-	    Scanner sc=new Scanner(System.in);
-        int n=sc.nextInt();
-        try{
-            new question1().processInput(n);
-        }catch(NegativeNumberException ni){
-            System.out.println("Exception Occoured"+ni.toString());
+	    try (Scanner sc = new Scanner(System.in)) {
+            int n=sc.nextInt();
+            try{
+                new question1().processInput(n);
+            }catch(NegativeNumberException ni){
+                System.out.println("Exception Occoured "+ni.toString());
 
+            }
         }
 	}
 

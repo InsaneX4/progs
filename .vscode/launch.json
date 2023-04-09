@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WinterSale",
+            "request": "launch",
+            "mainClass": "codeforces.WinterSale",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
+            "name": "SayHello",
+            "request": "launch",
+            "mainClass": "codeforces.SayHello",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
             "name": "Assignment11_1",
             "request": "launch",
             "mainClass": "Assignment11.Assignment11_1",
