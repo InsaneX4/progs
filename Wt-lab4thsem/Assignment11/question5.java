@@ -46,9 +46,9 @@ class stack {
     void peek(){
 
         if(this.top >= 0){
-            System.err.println("Stack contains------------");
+            System.out.println("Stack contains------------");
             for(int i = 0 ; i < this.top; i++){
-                System.err.println(st[i]);
+                System.out.println(st[i]);
                 
 
             }

@@ -8,7 +8,7 @@ public class question2 {
     public static void main(String[] args) {
         try {
             new Time(3,30,34);
-            new Time(4,60,50);
+            new Time(4,20,50);
             new Time(4,20,-1);
 
         } catch (HourException e) {
@@ -87,17 +87,17 @@ class Time{
     }
 
     
-    private int getminutes(int minutes2) throws SecondException {
+    private int getminutes(int minutes2) throws MinuteException {
         if(minutes2 > 60 || minutes2 < 0){
-            throw new SecondException("this is not a valid minutes value");
+            throw new MinuteException("this is not a valid minutes value");
         }else{
             return minutes2;
         }
     }
 
-    private int gethours(int hours2) throws SecondException {
+    private int gethours(int hours2) throws HourException {
         if(hours2 > 60 || hours2 < 0){
-            throw new SecondException("this is not a valid hours value");
+            throw new HourException("this is not a valid hours value");
         }else{
             return hours2;
         }
