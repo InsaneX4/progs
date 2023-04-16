@@ -1,4 +1,4 @@
-package Assignment12;
+//package Assignment12;
 /*Problem 1: Write a program in Java to copy the content of a given file to another user entered
 file using character stream.*/
 

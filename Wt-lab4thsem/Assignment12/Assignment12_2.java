@@ -1,4 +1,4 @@
-package Assignment12;
+//package Assignment12;
 /*Problem 2: Write a Java program that compares two binary files and displays the first byte
 position where these files differ. */
 import java.io.BufferedReader;

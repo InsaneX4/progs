@@ -1,15 +1,12 @@
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
-import java.io.FileWriter;
 import java.io.IOException;
 
-//package Assignment12
-//Problem 3: Write a Java program to capitalize first letter of every word in a file.
-public class Assignment12_3 {
+//Problem 4: Write a Java program to find the longest word in a text file.
+public class Assignment12_4 {
     public static void main(String[] args) {
-
-        
+       
         String fileName = "source.txt"; // replace with your file name
         try {
             // Open the input file
@@ -17,6 +14,8 @@ public class Assignment12_3 {
             BufferedReader bufferedReader = new BufferedReader(fileReader);
             String line;
             StringBuilder capitalizedText = new StringBuilder();
+            int longestlength = 0;
+            String longestword = "";
             // Read each line from the file
             while ((line = bufferedReader.readLine()) != null) {
                 // Split the line into words
@@ -27,17 +26,18 @@ public class Assignment12_3 {
                         char firstChar = Character.toUpperCase(word.charAt(0));
                         String capitalizedWord = firstChar + word.substring(1);
                         capitalizedText.append(capitalizedWord).append(" ");
+                        if(word.length()> longestlength ){
+                            longestlength = word.length();
+                            longestword = word;
+                        
+                        }
                     }
                 }
                 capitalizedText.append("\n");
             }
             bufferedReader.close();
-            // Write the capitalized text back to the file
-            FileWriter fileWriter = new FileWriter(fileName);
-            BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
-            bufferedWriter.write(capitalizedText.toString());
-            bufferedWriter.close();
-            System.out.println("Successfully capitalized first letter of every word in the file.");
+            System.out.println("The longest word is " + longestword+" with word length " + longestlength);
+        
         } catch (IOException e) {
             e.printStackTrace();
         }
