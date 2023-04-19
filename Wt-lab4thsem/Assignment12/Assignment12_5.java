@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
+
 
 /*Problem 5: Write a Java program that will count the number of lines, the number of words, and
 the number of characters in each file that is specified on the command line. Assume that the files
