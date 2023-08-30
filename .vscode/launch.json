@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "leetcodecommonsunseq",
+            "request": "launch",
+            "mainClass": "leetcodecommonsunseq",
+            "projectName": "progs_186cb302"
+        },
+        {
+            "type": "java",
             "name": "WinterSale",
             "request": "launch",
             "mainClass": "codeforces.WinterSale",
